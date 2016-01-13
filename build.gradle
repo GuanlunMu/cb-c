@@ -80,7 +80,9 @@ checkstyle {
 }
 
 
-
+release {
+    failOnCommitNeeded = false
+}
 //Release settings
 //scmVersion {
 //    tag {
